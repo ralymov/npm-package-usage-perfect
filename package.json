@@ -1,0 +1,16 @@
+{
+  "name": "npm-package-usage-perfect",
+  "version": "1.0.1",
+  "description": "",
+  "repository": "https://github.com/ralymov/npm-package-usage-perfect.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "perfect-npm-package": "^1.0.0"
+  }
+}
